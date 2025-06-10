@@ -1,0 +1,6 @@
+# .gitignore
+
+# Fichiers sensibles
+.env
+.grignoter
+
